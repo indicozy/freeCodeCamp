@@ -24,7 +24,7 @@
 
 | バージョン  | ブランチ           | サポート | 有効な Web サイト              |
 | ------ | -------------- | ---- | ------------------------ |
-| 生産     | `prod-current` | 有    | `freecodecamp.org/learn` |
+| 本番     | `prod-current` | 有    | `freecodecamp.org/learn` |
 | ステージング | `prod-staging` | 有    | `freecodecamp.dev/learn` |
 | 開発     | `main`         | 無    |                          |
 
@@ -32,14 +32,14 @@
 
 | バージョン  | サポート | 有効な Web サイト                              |
 | ------ | ---- | ---------------------------------------- |
-| 生産     | 有    | `freecodecamp.org/news`                  |
+| 本番     | 有    | `freecodecamp.org/news`                  |
 | ローカライズ | 有    | `freecodecamp.org/<language>/news` |
 
 ### モバイルアプリ
 
 | バージョン | サポート | 有効な Web サイト                                                      |
 | ----- | ---- | ---------------------------------------------------------------- |
-| 生産    | 有    | `https://play.google.com/store/apps/details?id=org.freecodecamp` |
+| 本番    | 有    | `https://play.google.com/store/apps/details?id=org.freecodecamp` |
 
 上記とは別に、freeCodeCamp 組織で、GitHub にホストされているリポジトリの報告も受け付けています。
 

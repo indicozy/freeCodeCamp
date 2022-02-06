@@ -42,7 +42,7 @@ git version 2.25.1
 
 (任意ですが推奨) GitHub で [ssh キー設定](https://help.github.com/articles/generating-an-ssh-key) を実行します。
 
-## コードエディタをインストールする
+## コードエディターをインストールする
 
 Windows 10 に [Visual Studio Code](https://code.visualstudio.com) をインストールすることを強くお勧めします。 WSLの素晴らしいサポートがあり、自動的にWSL distro に必要な拡張機能をすべてインストールします。
 

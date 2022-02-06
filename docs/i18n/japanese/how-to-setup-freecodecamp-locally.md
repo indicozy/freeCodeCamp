@@ -45,9 +45,9 @@ npm -v
 
 2. (任意ですが推奨) GitHub 用の [SSH キーを設定](https://help.github.com/articles/generating-an-ssh-key/) します。
 
-3. 選択したコードエディタをインストールします。
+3. 選択したコードエディターをインストールします。
 
-   [Visual Studio Code](https://code.visualstudio.com/) または [Atom](https://atom.io/) の使用を強くお勧めします。 これらは優れた、無料のオープンソースコードエディタです。
+   [Visual Studio Code](https://code.visualstudio.com/) または [Atom](https://atom.io/) の使用を強くお勧めします。 これらは優れた、無料のオープンソースコードエディターです。
 
 4. コードエディターのリンティングを設定します。
 
@@ -151,7 +151,7 @@ freeCodeCamp のローカルコピーができたので、これらの指示に�
 
 問題が発生した場合は、まず Web 検索を実行し、すでに解決済みであるかどうかを確認します。 解決策が見つからない場合、[GitHub Issue](https://github.com/freeCodeCamp/freeCodeCamp/issues) ページを検索し、まだ報告されていない Issue を報告してください。
 
-そして、[フォーラムの「Contributors」カテゴリ](https://forum.freecodecamp.org/c/contributors) または [チャットサーバー](https://chat.freecodecamp.org/home) へいつでもお気軽にお問い合わせください。
+そして、[フォーラムの 'Contributors' カテゴリ](https://forum.freecodecamp.org/c/contributors) または [チャットサーバー](https://chat.freecodecamp.org/home) へいつでもお気軽にお問い合わせください。
 
 > [!TIP] ファイルを編集するだけの場合は、freeCodeCamp のローカルでの実行をスキップしてもかまいません。 例えば、`rebase` の実行や、`merge` の競合の解決です。
 > 
@@ -242,7 +242,7 @@ API サーバーとクライアントアプリケーションを起動できる�
 npm run develop
 ```
 
-この単一コマンドは、APIサーバーや利用可能なクライアントアプリケーションを含むすべてのサービスを起動します。
+この単一コマンドは、API サーバーや利用可能なクライアントアプリケーションを含むすべてのサービスを起動します。
 
 > [!TIP] 準備が整ったら、Web ブラウザを開いて **<http://localhost:8000>** をご覧ください。 アプリがロードされたとしたら、すべての準備ができているということです。おめでとうございます！ これで、freeCodeCamp の学習プラットフォーム全体のコピーがローカルマシン上で実行されます。
 
@@ -298,7 +298,7 @@ npm run develop
 
    > [!WARNING] フォークの `main` ブランチから行った未処理のプルリクエストがある場合は、このステップの最後にそれらを失うことになります。
    > 
-   > このステップを実行する前に、プルリクエストがモデレータによってマージされていることを確認します。 このシナリオを回避するには、**常に** `main` 以外のブランチで作業する必要があります。
+   > このステップを実行する前に、プルリクエストがモデレーターによってマージされていることを確認します。 このシナリオを回避するには、**常に** `main` 以外のブランチで作業する必要があります。
 
    このステップで、freeCodeCamp の main リポジトリからの **最新の変更を同期** させます。 競合を回避するために、できるだけ頻繁に最新の `upstream/main` の上に、自分のブランチをリベースすることが重要です。
 
@@ -350,7 +350,7 @@ npm run develop
    translate/add-spanish-basic-html
    ```
 
-4. ページを編集し、お気に入りのテキストエディタでコードを作成します。
+4. ページを編集し、お気に入りのテキストエディターでコードを作成します。
 
 5. 満足のいく変更が完成したら、必要に応じて freeCodeCamp をローカルで実行して変更をプレビューします。
 
@@ -452,7 +452,7 @@ npm run develop
    git commit --amend
    ```
 
-   これにより、`nano` や `vi` のようなデフォルトのテキストエディタが開き、コミットメッセージのタイトルを編集したり、説明を追加／編集したりすることができます。
+   これにより、`nano` や `vi` のようなデフォルトのテキストエディターが開き、コミットメッセージのタイトルを編集したり、説明を追加 / 編集したりすることができます。
 
 10. 次に、フォークに変更をプッシュできます。
 
@@ -470,7 +470,7 @@ npm run develop
 
 | コマンド                                                           | 説明                                                    |
 | -------------------------------------------------------------- | ----------------------------------------------------- |
-| `npm ci`                                                       | すべての依存関係をインストール/再インストールし、異なるサービスをブートストラップします。         |
+| `npm ci`                                                       | すべての依存関係をインストール / 再インストールし、異なるサービスをブートストラップします。       |
 | `npm run seed`                                                 | すべてのチャレンジのマークダウンファイルを解析し、MongoDB に挿入します。              |
 | `npm run develop`                                              | freeCodeCamp の API サーバーとクライアントアプリケーションを起動します。         |
 | `npm run storybook`                                            | コンポーネントライブラリ開発のためのストーリーブックを起動します。                     |
@@ -540,7 +540,7 @@ git clean -ifdX
 
 <!-- tabs:start -->
 
-#### **macOS／Linux／Windows 上の WSL - 端末から:**
+#### **macOS / Linux / Windows 上の WSL - 端末から:**
 
 ```console
 netstat -a | grep "3000"
@@ -570,6 +570,6 @@ TCP    0.0.0.0:3000           DESKTOP      LISTENING
 
 ## ヘルプ
 
-問題がありサポートが必要な場合は、[フォーラムの「Contributors」カテゴリ](https://forum.freecodecamp.org/c/contributors) または [contributors チャットルーム](https://chat.freecodecamp.org/channel/contributors)でお気軽にお尋ねください。
+問題がありサポートが必要な場合は、[フォーラムの 'Contributors' カテゴリ](https://forum.freecodecamp.org/c/contributors) または [contributors チャットルーム](https://chat.freecodecamp.org/channel/contributors)でお気軽にお尋ねください。
 
-ブラウザのコンソールやBash／ターミナル／コマンドラインで、問題を特定するのに役立つエラーが表示されている可能性があります。 問題の説明にこのエラーメッセージを提供することで、他の人がより簡単に問題を特定し、解決策を見つけることができます。
+ブラウザのコンソールやBash / ターミナル / コマンドラインで、問題を特定するのに役立つエラーが表示されている可能性があります。 問題の説明にこのエラーメッセージを提供することで、他の人がより簡単に問題を特定し、解決策を見つけることができます。

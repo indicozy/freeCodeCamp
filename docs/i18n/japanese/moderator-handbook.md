@@ -182,7 +182,7 @@ freeCodeCamp のリポジトリへの書き込み権限はありますが、**fr
 
 例外的な状況として、モデレーターがディスカッションを複数のスレッドにフォークすることが適切である場合があります。
 
-問題や質問がある場合は、スタッフカテゴリでアクションを投稿し、モデレーターとしてのアクションを確認してもらいたい場合は、別のモデレータにタグ付けします。
+問題や質問がある場合は、スタッフカテゴリでアクションを投稿し、モデレーターとしてのアクションを確認してもらいたい場合は、別のモデレーターにタグ付けします。
 
 ### 未成年のユーザー
 
@@ -286,7 +286,7 @@ freeCodeCamp のリポジトリへの書き込み権限はありますが、**fr
 
 9. **他のモデレーターと話をします。**
 
-   モデレータ専用のルームがあります。 それを使ってみましょう！ 特定の状況を処理することを不快に感じる場合は、他のモデレーターに支援を求めてください。 議論されるべきことがあると思ったら、議論してください。 皆さんはチームの一員であり、私たちはすべてのチームメンバーからのインプットを大切にしています！ 皆さんが、ガイドラインや行動規範に完全に同意していないとしても、皆さんからの意見を大切にします！
+   モデレーター専用ルームがあります。 それを使ってみましょう！ 特定の状況を処理することを不快に感じる場合は、他のモデレーターに支援を求めてください。 議論されるべきことがあると思ったら、議論してください。 皆さんはチームの一員であり、私たちはすべてのチームメンバーからのインプットを大切にしています！ 皆さんが、ガイドラインや行動規範に完全に同意していないとしても、皆さんからの意見を大切にします！
 
 10. **一時的に非アクティブにします。**
 
@@ -298,7 +298,7 @@ freeCodeCamp のリポジトリへの書き込み権限はありますが、**fr
 
 承認されると、皆さんは、[GitHub](https://github.com/orgs/freeCodeCamp/teams/moderators)、[フォーラム](https://forum.freecodecamp.org/g/moderators)、チャットなどのモデレーターチームに追加されます。
 
-> [!NOTE] GitHub の場合: モデレータとして承認されると、Github リポジトリへの招待が届きます。 招待を承認するには、[freeCodeCamp GitHub Organization Invitation](https://github.com/orgs/freeCodeCamp/invitation) に進む必要があります。
+> [!NOTE] GitHub の場合: モデレーターとして承認されると、Github リポジトリへの招待が届きます。 招待を承認するには、[freeCodeCamp GitHub Organization Invitation](https://github.com/orgs/freeCodeCamp/invitation) に進む必要があります。
 > 
 > これは、一部のリポジトリへの書き込みアクセスを提供するために必要となります。
 
@@ -316,7 +316,7 @@ freeCodeCamp のリポジトリへの書き込み権限はありますが、**fr
 
 [チャットサーバーの contributors ルーム](https://chat.freecodecamp.org/channel/contributors) は、どなたでも歓迎します。 学習グループなど、様々な方法でコミュニティに貢献しているモデレーターやキャンパーのための専用のチャットルームです。
 
-`@username` で直接言及しているものを、コントリビューターがこのルームで読むことを想定しています。 他はすべて任意ですが、自由に誰かの投稿を読んだり交流したりしてください。
+`@username` で直接メンションされているものを、コントリビューターがこのルームで読むことを想定しています。 他はすべて任意ですが、自由に誰かの投稿を読んだり交流したりしてください。
 
 ## 勧誘者への対応
 
@@ -387,7 +387,7 @@ http://www.suicide.org/international-suicide-hotlines.html
 
 ---
 
-CI ビルドをローカルで実行する手順については、[貢献ガイドライン] (how-to-work-on-coding-challenges.md#testing-challenges) を参照してください。 ✅
+CI ビルドをローカルで実行する手順については、[貢献ガイドライン](how-to-work-on-coding-challenges.md#testing-challenges) をご参照ください。 ✅
 ```
 
 ### フォークの同期
@@ -455,7 +455,7 @@ GUI を使用している場合は、単純に `Add a new remote...` を使用�
 
 ---
 
-質問がございましたら、[フォーラムの 「Contributors」カテゴリ](https://forum.freecodecamp.org/c/contributors) もしくは、[contributors チャットルーム] (https://chat.freecodecamp.org/channel/contributors) までお気軽にお問合せください。
+ご質問がありましたら、[フォーラムの 'Contributors' カテゴリ](https://forum.freecodecamp.org/c/contributors) または [contributors チャットルーム] (https://chat.freecodecamp.org/channel/contributors) までお気軽にお問合せください。
 ```
 
 ### 無効なプルリクエストをクローズする
