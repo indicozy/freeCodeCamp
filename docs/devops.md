@@ -352,6 +352,7 @@ Provisioning VMs with the Code
 
    ```console
    sudo su
+   apt install nginx -y
 
    cd /var/www/html
    git clone https://github.com/freeCodeCamp/error-pages
